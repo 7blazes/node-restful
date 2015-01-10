@@ -26,7 +26,7 @@
   "scripts": {
     "test": "make test"
   },
-  "repository": "git://github.com/baugarten/node-restful",
+  "repository": "git://github.com/7blazes/node-restful",
   "main": "index.js",
   "dependencies": {
     "underscore": "1.6.0"
